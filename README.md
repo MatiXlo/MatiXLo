@@ -70,18 +70,6 @@
 
 ###
 
-<h2 align="left">Spotify</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31jowa7wkhlojznsyd7fbx5fukxe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
@@ -112,13 +100,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MatiXLo/count.svg?"  />
 </div>
-
-###
-
-<h2 align="left">Snake</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/MatiXLo/MatiXLo/output/snake.svg" alt="Snake animation" />
 
 ###
